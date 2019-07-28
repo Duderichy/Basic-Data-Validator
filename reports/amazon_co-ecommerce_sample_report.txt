@@ -1,0 +1,21 @@
+Report for amazon_co-ecommerce_sample.csv
+There were 10002 rows of data
+There were 0 empty lines
+Column uniq_id matched regex on 9997 out of 10002 or 99.95% of lines
+Column product_name matched regex on 10002 out of 10002 or 100.00% of lines
+Column manufacturer matched regex on 9996 out of 10002 or 99.94% of lines
+Column price matched regex on 8539 out of 10002 or 85.37% of lines
+Column number_available_in_stock matched regex on 7485 out of 10002 or 74.84% of lines
+Column number_of_reviews matched regex on 10002 out of 10002 or 100.00% of lines
+Column number_of_answered_questions matched regex on 9989 out of 10002 or 99.87% of lines
+Column average_review_rating matched regex on 9969 out of 10002 or 99.67% of lines
+Column amazon_category_and_sub_category matched regex on 9309 out of 10002 or 93.07% of lines
+Column customers_who_bought_this_item_also_bought matched regex on 8938 out of 10002 or 89.36% of lines
+Column description matched regex on 9352 out of 10002 or 93.50% of lines
+Column product_information matched regex on 9943 out of 10002 or 99.41% of lines
+Column product_description matched regex on 9352 out of 10002 or 93.50% of lines
+Column items_customers_buy_after_viewing_this_item matched regex on 6936 out of 10002 or 69.35% of lines
+Column customer_questions_and_answers matched regex on 915 out of 10002 or 9.15% of lines
+Column customer_reviews matched regex on 9980 out of 10002 or 99.78% of lines
+Total number of data rows with all required fields matching regex was 7397 or 73.96%
+Based on the percentage of required fields present too much data is missing
